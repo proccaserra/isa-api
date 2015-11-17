@@ -1,2 +1,4 @@
 jsonschema
 warlock
+bs4
+urllib2
